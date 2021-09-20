@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @komalkarir
+- 👀 I’m interested in machine learning, data mining, Big Data
+- 🌱 I’m currently learning how little I know
+- 💞️ I’m looking to collaborate on machine learning, data mining, Big Data
+- 📫 How to reach me : Good question!
